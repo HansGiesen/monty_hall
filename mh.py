@@ -60,4 +60,4 @@ if __name__ == '__main__':
             if DEBUG:
                 print('The player lost.\n')
 
-    print(f'Win percentage: {wins / args.play_cnt}')
+    print(f'Win probability: {wins / args.play_cnt}')
